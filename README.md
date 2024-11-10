@@ -73,7 +73,7 @@ python main.py
 
 ## Примеры работы программы
 
-![Пример изображения](https://example.com/path/to/image.png)
-![Пример изображения](https://example.com/path/to/image.png)
-![Пример изображения](https://example.com/path/to/image.png)
+![Пример изображения](https://github.com/Vadimbuildercxx/DigitalBreakthrough/blob/main/images/image_1.jpeg)
+![Пример изображения](https://github.com/Vadimbuildercxx/DigitalBreakthrough/blob/main/images/image_2.jpeg)
+![Видео](https://disk.yandex.ru/i/mYCWU-6J82t0jA)
 
